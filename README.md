@@ -1,1 +1,1 @@
-# WLRe_LALA_C-
+# WLRe_LALA_C語言版
